@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    blink {
+        color: red;
+        background-color: turquoise;
+        font-size: 1.7em;
+    }
+
+    .container {
+        width: 75%;
+        margin: 0 auto;
+        font-family: sans-serif;
+    }
+
+    h1 {
+        float: left;
+        width: 50%;
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .text-red {
+        color: red;
+    }
+
+    .blink-hard {
+        animation: blinker 1s step-end infinite;
+    }
+
+    .blink-soft {
+        animation: blinker 1.5s linear infinite;
+    }
+
+    @keyframes blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+</style>
+<blink>
+    <!-- <p>Pravin Jarasandh More</p> -->
+
+</blink>
+<div class="container">
+    <h1 class="text-red blink-hard">Pravin</h1>
+    <h1 class="text-red blink-soft">Anita</h1>
+</div>
+
+</html>
