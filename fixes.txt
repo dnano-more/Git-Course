@@ -1,3 +1,6 @@
 I am fix file wich will be used to fix the bug.
 
 Fixed another bug.
+one more bug detected and Fixed.
+Fourth bug fixed.
+Fifth bug fixed.
