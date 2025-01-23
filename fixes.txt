@@ -6,3 +6,5 @@ Fourth bug fixed.
 Fifth bug fixed.
 
 Fix message for green mode.
+
+Another fix message for fix mode.
