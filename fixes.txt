@@ -4,3 +4,5 @@ Fixed another bug.
 one more bug detected and Fixed.
 Fourth bug fixed.
 Fifth bug fixed.
+
+Fix message for green mode.
