@@ -1,18 +1,14 @@
 # Learn from chai aur code
 
-## Installation
-- Clone the repository
-- Run `npm install`
-
-## Usage
-- Run `npm start`
-
 ## 1. Introduction
 - This is a simple project to learn how to use git and github.
 - This project is a part of the course "Chai aur code" by "Code for Cause".
 
 ## 2. Purpose
 - The purpose of this project is to learn how to use git and github.
+
+## Screenshot of commits and graph
+*![ Workflow](<Screenshot 2025-01-24 [ Git Graph] .png>)
 
 ## 3. How to contribute
 - Fork the repository
